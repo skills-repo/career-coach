@@ -19,8 +19,8 @@
 | 层 | 路径 | 内容 |
 |----|------|------|
 | L1 路由 | `SKILL.md` | 能力索引表、grep 关键词、核心原则 |
-| L2 方法论 | `references/` | 7 篇深层 playbook，按需加载 |
-| L3 子技能 | `skills/<name>/SKILL.md` | 4 个细粒度能力，可单独安装，**路径不可改名** |
+| L2 方法论 | `references/` | 8 篇深层 playbook，按需加载 |
+| L3 子技能 | `skills/<name>/SKILL.md` | 5 个细粒度能力，可单独安装，**路径不可改名** |
 
 本仓库为 Level B：以判断和方法论为主，不设 `scripts/` 与 `assets/`。
 若后续出现真实的确定性任务（如简历格式批量检查器），再单独升级为 Level A。
@@ -36,6 +36,7 @@
 | `job-search-strategy.md` | 定位、渠道、漏斗诊断、空窗期、在职求职 |
 | `salary-negotiation.md` | 期望薪资怎么答、offer 谈判、股权、内部涨薪 |
 | `career-transition.md` | 转行转岗路径、可迁移能力、晋升准备 |
+| `resume-market-adapter.md` | 中国/国际双轨简历：证据账本、规则对照、隐私矩阵、差异对照 |
 
 ## 子技能清单
 
@@ -45,6 +46,7 @@
 | resume-optimizer | `skills/resume-optimizer/SKILL.md` | 简历 ATS 检测：关键词匹配、格式检查 |
 | linkedin-optimizer | `skills/linkedin-optimizer/SKILL.md` | LinkedIn 资料优化 |
 | resume-writer | `skills/resume-writer/SKILL.md` | 爆破点撰写：X-Y-Z + STAR |
+| resume-market-adapter | `skills/resume-market-adapter/SKILL.md` | 双轨简历：中/国际适配、隐私风险、差异对照 |
 
 ## 行为准则
 
@@ -55,5 +57,5 @@
 
 ## 技能来源
 
-4 个子技能改编自 skills.sh 社区的成熟技能（安装量 ≥1K），详情见各 SKILL.md 的 `source` 字段。
+5 个子技能中，4 个改编自 skills.sh 社区的成熟技能（安装量 ≥1K），1 个（`resume-market-adapter`）为组织原创，详情见各 SKILL.md 的 `source` 字段。
 `references/` 为本仓库原创方法论。

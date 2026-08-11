@@ -48,6 +48,8 @@ metadata:
 | LinkedIn 资料优化（细粒度） | `skills/linkedin-optimizer/SKILL.md` | LinkedIn, 领英, 资料优化, 招聘者触达 |
 | 简历 ATS 检测（细粒度） | `skills/resume-optimizer/SKILL.md` | ATS 检测, 匹配度, 兼容性, 关键词扫描 |
 | 简历爆破点撰写（细粒度） | `skills/resume-writer/SKILL.md` | bullet, 爆破点, 成就描述, 弱描述改写 |
+| 中国/国际双轨简历（方法论） | `references/resume-market-adapter.md` | 双轨, 市场适配, 中英文简历, 隐私, 证据账本, 脱敏, 地区化 |
+| 双轨简历适配器（细粒度） | `skills/resume-market-adapter/SKILL.md` | 双版本, 中美简历, 地区化, 差异对照, market adapter |
 
 > **路由规则**：
 > 用户要**方法论、诊断、策略判断** → 读 `references/`；

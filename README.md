@@ -8,7 +8,7 @@
 面试准备，到薪酬谈判和入职后的转型与晋升规划。
 
 采用 **superpower 架构**（Level B）：根 `SKILL.md` 只做路由，
-7 篇深层 playbook 放在 `references/` 中按需加载，4 个细粒度子技能可单独安装。
+7 篇深层 playbook 放在 `references/` 中按需加载，5 个细粒度子技能可单独安装。
 
 ## 核心理念
 
@@ -36,6 +36,7 @@ career-coach/
 └── skills/               细粒度子技能（可单独安装）
     ├── interview-coach/
     ├── linkedin-optimizer/
+    ├── resume-market-adapter/
     ├── resume-optimizer/
     └── resume-writer/
 ```
@@ -48,6 +49,7 @@ career-coach/
 | ATS | `resume-optimizer` | 简历 ATS 优化：关键词匹配、格式兼容、匹配分 | [衍生](https://skills.sh/paramchoudhary/resumeskills/resume-ats-optimizer) |
 | LinkedIn | `linkedin-optimizer` | LinkedIn 优化：Headline、About、搜索可见性 | [衍生](https://skills.sh/paramchoudhary/resumeskills/linkedin-profile-optimizer) |
 | 爆破点 | `resume-writer` | 爆破点撰写：X-Y-Z 公式、STAR 方法、量化成就 | [衍生](https://skills.sh/paramchoudhary/resumeskills/resume-bullet-writer) |
+| 双轨 | `resume-market-adapter` | 中国/国际市场双轨精修：证据账本、地区化隐私、差异对照 | [原创](https://github.com/skills-repo/career-coach) |
 
 ## 快速开始
 
@@ -64,6 +66,7 @@ npx skills add skills-repo/career-coach@interview-coach -g -y
 npx skills add skills-repo/career-coach@resume-optimizer -g -y
 npx skills add skills-repo/career-coach@linkedin-optimizer -g -y
 npx skills add skills-repo/career-coach@resume-writer -g -y
+npx skills add skills-repo/career-coach@resume-market-adapter -g -y
 ```
 
 ## 推荐工作流
