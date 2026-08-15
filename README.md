@@ -8,7 +8,7 @@
 面试准备，到薪酬谈判和入职后的转型与晋升规划。
 
 采用 **superpower 架构**（Level B）：根 `SKILL.md` 只做路由，
-7 篇深层 playbook 放在 `references/` 中按需加载，5 个细粒度子技能可单独安装。
+8 篇深层 playbook 放在 `references/` 中按需加载，5 个细粒度子技能可单独安装。
 
 ## 核心理念
 
@@ -32,7 +32,8 @@ career-coach/
 │   ├── personal-branding.md      个人档案：被搜到 + 被点开
 │   ├── job-search-strategy.md    求职策略：渠道转化率、漏斗诊断
 │   ├── salary-negotiation.md     谈薪：BATNA、时机、整包思维
-│   └── career-transition.md      转型与晋升：可迁移能力、提前 6 个月
+│   ├── career-transition.md      转型与晋升：可迁移能力、提前 6 个月
+│   └── resume-market-adapter.md 双轨简历：中英文差异、地区化隐私、证据账本
 └── skills/               细粒度子技能（可单独安装）
     ├── interview-coach/
     ├── linkedin-optimizer/
