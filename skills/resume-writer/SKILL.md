@@ -80,6 +80,13 @@ tags:
 - 从"执行者"角色向"领导者"角色转换时调整表达
 - 经历较少，需要用有限的经验展示最大价值
 
+## 相关参考（Playbook）
+
+本技能是 L3 细粒度落地动作（bullet 改写），配套方法论见：
+
+- `../../references/resume-crafting.md` — 简历撰写方法论（读者模型 / JD 反向工程）
+- `../../references/ats-optimization.md` — ATS 关键词策略与兼容性要求
+
 ## 限制
 
 - 不能凭空编造数据（需基于真实经历估算）

@@ -70,6 +70,13 @@ tags:
 - 更新了简历，需要同步 LinkedIn 内容
 - 刚转行，需要调整资料关键词和定位
 
+## 相关参考（Playbook）
+
+本技能是 L3 细粒度落地动作（资料优化），配套方法论见：
+
+- `../../references/personal-branding.md` — 个人品牌定位、被搜到 / 被点开的方法论
+- `../../references/job-search-strategy.md` — 内推 / 网络渠道与漏斗诊断
+
 ## 限制
 
 - 优化效果取决于行业和地区竞争程度

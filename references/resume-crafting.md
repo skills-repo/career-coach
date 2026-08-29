@@ -124,3 +124,14 @@ L4 加影响      "重构用户中心模块，P95 从 800ms 降至 120ms，支�
 
 不可以做：虚构公司或职位、夸大职级、把团队成果说成个人独立完成、编造精确数字、
 伪造时间线掩盖空窗。这些在背调和深度面试中几乎必然暴露，代价远大于收益。
+
+## 与既有子技能的协作（L2 → L3 层次边界）
+
+本篇是简历撰写方法论（L2），落地动作交给细粒度子技能（L3）：
+
+- `skills/resume-writer/SKILL.md` — 单条 bullet 改写落地（X-Y-Z / STAR）
+- `skills/resume-optimizer/SKILL.md` — ATS 兼容性终检（落地扫描）
+
+兄弟参考（同属 L2，按需交叉加载）：`references/ats-optimization.md`（ATS 关键词策略）、`references/resume-market-adapter.md`（中英文双轨分化）。
+
+层次边界：本篇讲读者模型 / 四级阶梯 / JD 反向工程（怎么写）；`resume-writer` 写 bullet、`resume-optimizer` 做 ATS 自检。先读本篇定结构，再调技能落地。

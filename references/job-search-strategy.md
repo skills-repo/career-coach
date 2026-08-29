@@ -130,3 +130,15 @@
 - 面试中反复被问同一个短板
 
 继续用同样的方法投第 50 家不会有不同结果。
+
+## 与既有子技能的协作（L2 → L3 层次边界）
+
+本篇是求职策略 / 漏斗诊断方法论（L2），落地动作分散在细粒度子技能（L3）：
+
+- `skills/linkedin-optimizer/SKILL.md` — 内推 / 网络渠道落地（LinkedIn 优化）
+- `skills/interview-coach/SKILL.md` — 面邀转化陪练
+- `skills/resume-writer/SKILL.md` — 简历作为投递载体改写
+
+兄弟参考（同属 L2，按需交叉加载）：`references/interview-prep.md`（面邀后准备）、`references/career-transition.md`（转型期求职）、`references/personal-branding.md`（品牌带来被动机会）。
+
+层次边界：本篇负责渠道转化率与漏斗诊断（卡在哪一层、怎么调策略）；落地动作分散在 `linkedin-optimizer` / `interview-coach` / `resume-writer`。先读本篇定位漏斗层，再调对应 skill。

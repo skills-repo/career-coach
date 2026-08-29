@@ -112,3 +112,13 @@
 - [ ] 明确的方向信号（在找什么）
 - [ ] 与简历、GitHub、个人站的信息一致
 - [ ] 在职者：改动前已关闭动态提醒
+
+## 与既有子技能的协作（L2 → L3 层次边界）
+
+本篇是个人品牌方法论（L2），落地优化交给细粒度子技能（L3）：
+
+- `skills/linkedin-optimizer/SKILL.md` — LinkedIn 资料即个人品牌主阵地（落地优化到 All-Star）
+
+兄弟参考（同属 L2，按需交叉加载）：`references/job-search-strategy.md`（品牌→被动机会）、`references/resume-crafting.md`（简历与品牌一致性）。
+
+层次边界：本篇讲品牌定位 / 被搜到 / 被点开的方法论；`linkedin-optimizer` 是把档案改到 All-Star 的落地工具。先读本篇定品牌策略，再调 `linkedin-optimizer` 落地。

@@ -138,3 +138,14 @@ T：正式申报
 
 这条逻辑同时解释了：为什么证书没用、为什么内部转岗比外部转型容易、
 为什么晋升要提前 6 个月准备。证据永远先于身份。
+
+## 与既有子技能的协作（L2 → L3 层次边界）
+
+本篇是转型 / 晋升策略方法论（L2），无专属子技能；落地动作分散在细粒度子技能（L3）：
+
+- `skills/linkedin-optimizer/SKILL.md` — 转型期重建职业网络与档案
+- `skills/interview-coach/SKILL.md` — 转型后面试陪练
+
+兄弟参考（同属 L2，按需交叉加载）：`references/job-search-strategy.md`（转型期求职漏斗诊断）、`references/personal-branding.md`（转型期品牌重启）、`references/salary-negotiation.md`（转型后谈薪）。
+
+层次边界：本篇负责转型路径判断与晋升时机（可迁移能力、最小可行证据）；落地执行借由上述兄弟 reference 与 skill。用户要转型路径判断读本篇，要改 LinkedIn / 练面调对应 skill。

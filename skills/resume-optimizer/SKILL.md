@@ -66,6 +66,13 @@ tags:
 - 简历格式更改后验证兼容性
 - 从非英文岗位转换到英文岗位时的简历适配
 
+## 相关参考（Playbook）
+
+本技能是 L3 细粒度落地动作（ATS 检测），配套方法论见：
+
+- `../../references/resume-crafting.md` — 简历撰写方法论（读者模型 / JD 反向工程）
+- `../../references/ats-optimization.md` — ATS 解析层 + 检索层 + 关键词策略
+
 ## 限制
 
 - ATS 系统种类繁多（Workday, Greenhouse, Lever 等），各系统解析规则有差异
