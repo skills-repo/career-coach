@@ -188,8 +188,8 @@ base 谈不动时，这些项往往有空间且审批链更短：
 
 本篇是薪酬谈判方法论（L2），落地陪练交给细粒度子技能（L3）：
 
-- `skills/interview-coach/SKILL.md` — 终面后谈薪衔接（拿 offer 前的陪练）
+- [skills/interview-coach/SKILL.md](../skills/interview-coach/SKILL.md) — 终面后谈薪衔接（拿 offer 前的陪练）
 
-兄弟参考（同属 L2，按需交叉加载）：`references/interview-prep.md`（面后环节）、`references/job-search-strategy.md`（多 offer 对比决策）。
+兄弟参考（同属 L2，按需交叉加载）：[references/interview-prep.md](interview-prep.md)（面后环节）、[references/job-search-strategy.md](job-search-strategy.md)（多 offer 对比决策）。
 
-层次边界：本篇讲 BATNA / 时机 / 整包思维（怎么谈）；`interview-coach` 是拿到面邀与 offer 前的陪练。先读本篇备谈薪筹码，再用 `interview-coach` 练终面。
+层次边界：本篇讲 BATNA / 时机 / 整包思维（怎么谈）；[interview-coach](../skills/interview-coach/SKILL.md) 是拿到面邀与 offer 前的陪练。先读本篇备谈薪筹码，再用 [interview-coach](../skills/interview-coach/SKILL.md) 练终面。

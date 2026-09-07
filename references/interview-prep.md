@@ -172,8 +172,8 @@ STAR 适合成功案例，CARL 适合失败/冲突类问题（多了反思环节
 
 本篇是面试准备方法论（L2），落地陪练交给细粒度子技能（L3）：
 
-- `skills/interview-coach/SKILL.md` — 交互式逐题模拟陪练（一次一题的实战动作）
+- [skills/interview-coach/SKILL.md](../skills/interview-coach/SKILL.md) — 交互式逐题模拟陪练（一次一题的实战动作）
 
-兄弟参考（同属 L2，按需交叉加载）：`references/salary-negotiation.md`（面后谈薪衔接）、`references/job-search-strategy.md`（面邀漏斗定位）。
+兄弟参考（同属 L2，按需交叉加载）：[references/salary-negotiation.md](salary-negotiation.md)（面后谈薪衔接）、[references/job-search-strategy.md](job-search-strategy.md)（面邀漏斗定位）。
 
-层次边界：本篇讲题型地图 / 故事库法 / 系统设计五步（怎么准备）；`interview-coach` 是逐题实战陪练。先读本篇建框架，再用 `interview-coach` 逐题练。
+层次边界：本篇讲题型地图 / 故事库法 / 系统设计五步（怎么准备）；[interview-coach](../skills/interview-coach/SKILL.md) 是逐题实战陪练。先读本篇建框架，再用 [interview-coach](../skills/interview-coach/SKILL.md) 逐题练。

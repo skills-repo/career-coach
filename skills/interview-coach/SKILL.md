@@ -62,8 +62,8 @@ tags:
 
 本技能是 L3 细粒度落地动作（逐题陪练），配套方法论见：
 
-- `../../references/interview-prep.md` — 面试题型地图、故事库法、系统设计五步
-- `../../references/salary-negotiation.md` — 面后谈薪衔接（BATNA / 时机 / 整包）
+- [references/interview-prep.md](../../references/interview-prep.md) — 面试题型地图、故事库法、系统设计五步
+- [references/salary-negotiation.md](../../references/salary-negotiation.md) — 面后谈薪衔接（BATNA / 时机 / 整包）
 
 ## 限制
 

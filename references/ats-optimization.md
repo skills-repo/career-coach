@@ -124,7 +124,7 @@ ATS 大多做精确/前缀匹配，不做语义理解。检索者可能搜任一
 | 渠道 | ATS 影响 | 侧重 |
 |------|---------|------|
 | 公司官网投递 | 最高，标准 ATS 流程 | 格式与关键词都要做足 |
-| LinkedIn / 招聘平台 | 中，平台自身搜索为主 | 见 `personal-branding.md`，档案关键词比简历更重要 |
+| LinkedIn / 招聘平台 | 中，平台自身搜索为主 | 见 [personal-branding.md](personal-branding.md)，档案关键词比简历更重要 |
 | 内推 | 最低，简历直达用人经理 | 主攻 L3 说服力，格式够干净即可 |
 | 猎头 | 低，猎头会重新包装 | 提供信息完整版，让猎头有素材 |
 
@@ -134,9 +134,9 @@ ATS 大多做精确/前缀匹配，不做语义理解。检索者可能搜任一
 
 本篇是 ATS 方法论（L2），落地动作交给细粒度子技能（L3）：
 
-- `skills/resume-optimizer/SKILL.md` — ATS 兼容性检测与关键词匹配分（落地扫描）
-- `skills/resume-writer/SKILL.md` — 按 ATS 关键词改写 bullet（落地产出）
+- [skills/resume-optimizer/SKILL.md](../skills/resume-optimizer/SKILL.md) — ATS 兼容性检测与关键词匹配分（落地扫描）
+- [skills/resume-writer/SKILL.md](../skills/resume-writer/SKILL.md) — 按 ATS 关键词改写 bullet（落地产出）
 
-兄弟参考（同属 L2，按需交叉加载）：`references/resume-crafting.md`（撰写端规避 ATS 不兼容写法）。
+兄弟参考（同属 L2，按需交叉加载）：[references/resume-crafting.md](resume-crafting.md)（撰写端规避 ATS 不兼容写法）。
 
-层次边界：本篇讲 ATS 解析层 + 检索层 + 关键词策略（为什么被过滤、怎么排关键词）；`resume-optimizer` 是检测工具、`resume-writer` 是改写动作。先读本篇诊断，再调技能落地。
+层次边界：本篇讲 ATS 解析层 + 检索层 + 关键词策略（为什么被过滤、怎么排关键词）；[resume-optimizer](../skills/resume-optimizer/SKILL.md) 是检测工具、[resume-writer](../skills/resume-writer/SKILL.md) 是改写动作。先读本篇诊断，再调技能落地。

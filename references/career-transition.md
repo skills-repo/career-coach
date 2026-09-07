@@ -111,7 +111,7 @@ T：正式申报
 
 ### 材料写法
 
-同简历的四级阶梯（见 `resume-crafting.md`），额外强调两点：
+同简历的四级阶梯（见 [resume-crafting.md](resume-crafting.md)），额外强调两点：
 
 - **影响范围**：从"我完成了"升级到"我使团队/多个团队能够"
 - **不可替代性**：这件事换个人做会怎样
@@ -143,9 +143,9 @@ T：正式申报
 
 本篇是转型 / 晋升策略方法论（L2），无专属子技能；落地动作分散在细粒度子技能（L3）：
 
-- `skills/linkedin-optimizer/SKILL.md` — 转型期重建职业网络与档案
-- `skills/interview-coach/SKILL.md` — 转型后面试陪练
+- [skills/linkedin-optimizer/SKILL.md](../skills/linkedin-optimizer/SKILL.md) — 转型期重建职业网络与档案
+- [skills/interview-coach/SKILL.md](../skills/interview-coach/SKILL.md) — 转型后面试陪练
 
-兄弟参考（同属 L2，按需交叉加载）：`references/job-search-strategy.md`（转型期求职漏斗诊断）、`references/personal-branding.md`（转型期品牌重启）、`references/salary-negotiation.md`（转型后谈薪）。
+兄弟参考（同属 L2，按需交叉加载）：[references/job-search-strategy.md](job-search-strategy.md)（转型期求职漏斗诊断）、[references/personal-branding.md](personal-branding.md)（转型期品牌重启）、[references/salary-negotiation.md](salary-negotiation.md)（转型后谈薪）。
 
 层次边界：本篇负责转型路径判断与晋升时机（可迁移能力、最小可行证据）；落地执行借由上述兄弟 reference 与 skill。用户要转型路径判断读本篇，要改 LinkedIn / 练面调对应 skill。

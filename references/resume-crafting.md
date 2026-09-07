@@ -99,7 +99,7 @@ L4 加影响      "重构用户中心模块，P95 从 800ms 降至 120ms，支�
 
 | 症状 | 根因 | 修法 |
 |------|------|------|
-| 投了很多没回音 | ATS 过滤或岗位不匹配 | 见 `ats-optimization.md`；同时检查是否海投同一份 |
+| 投了很多没回音 | ATS 过滤或岗位不匹配 | 见 [ats-optimization.md](ats-optimization.md)；同时检查是否海投同一份 |
 | HR 电话问的都是简历上有的 | 简历信息密度太低 | 删掉常识性描述，补成果和量级 |
 | 面试官说"看不出你做了什么" | 全篇 L0 职责陈述 | 按四级阶梯逐条升级 |
 | 简历很满但记不住 | 无重点，全是同等权重 | 每段经历只留 3–5 条，砍掉次要的 |
@@ -129,9 +129,9 @@ L4 加影响      "重构用户中心模块，P95 从 800ms 降至 120ms，支�
 
 本篇是简历撰写方法论（L2），落地动作交给细粒度子技能（L3）：
 
-- `skills/resume-writer/SKILL.md` — 单条 bullet 改写落地（X-Y-Z / STAR）
-- `skills/resume-optimizer/SKILL.md` — ATS 兼容性终检（落地扫描）
+- [skills/resume-writer/SKILL.md](../skills/resume-writer/SKILL.md) — 单条 bullet 改写落地（X-Y-Z / STAR）
+- [skills/resume-optimizer/SKILL.md](../skills/resume-optimizer/SKILL.md) — ATS 兼容性终检（落地扫描）
 
-兄弟参考（同属 L2，按需交叉加载）：`references/ats-optimization.md`（ATS 关键词策略）、`references/resume-market-adapter.md`（中英文双轨分化）。
+兄弟参考（同属 L2，按需交叉加载）：[references/ats-optimization.md](ats-optimization.md)（ATS 关键词策略）、[references/resume-market-adapter.md](resume-market-adapter.md)（中英文双轨分化）。
 
-层次边界：本篇讲读者模型 / 四级阶梯 / JD 反向工程（怎么写）；`resume-writer` 写 bullet、`resume-optimizer` 做 ATS 自检。先读本篇定结构，再调技能落地。
+层次边界：本篇讲读者模型 / 四级阶梯 / JD 反向工程（怎么写）；[resume-writer](../skills/resume-writer/SKILL.md) 写 bullet、[resume-optimizer](../skills/resume-optimizer/SKILL.md) 做 ATS 自检。先读本篇定结构，再调技能落地。

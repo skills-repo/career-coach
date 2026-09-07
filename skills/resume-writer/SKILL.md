@@ -84,8 +84,8 @@ tags:
 
 本技能是 L3 细粒度落地动作（bullet 改写），配套方法论见：
 
-- `../../references/resume-crafting.md` — 简历撰写方法论（读者模型 / JD 反向工程）
-- `../../references/ats-optimization.md` — ATS 关键词策略与兼容性要求
+- [references/resume-crafting.md](../../references/resume-crafting.md) — 简历撰写方法论（读者模型 / JD 反向工程）
+- [references/ats-optimization.md](../../references/ats-optimization.md) — ATS 关键词策略与兼容性要求
 
 ## 限制
 

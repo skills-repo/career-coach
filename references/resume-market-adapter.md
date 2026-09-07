@@ -1,7 +1,7 @@
 # 双轨简历精修 Playbook（中国 / 国际）
 
 > 同一份真实经历，按目标市场生成两套简历。核心不是翻译，而是**结构、关键词、隐私策略**的重新适配。
-> 本篇是方法论（L2），具体落地动作见 `skills/resume-market-adapter/SKILL.md`。
+> 本篇是方法论（L2），具体落地动作见 [skills/resume-market-adapter/SKILL.md](../skills/resume-market-adapter/SKILL.md)。
 
 ## 一、先建证据账本（唯一事实源）
 
@@ -123,9 +123,9 @@ E-commerce Co. — Senior Backend Engineer (2021–Present)
 
 ## 七、与既有子技能的协作
 
-- `resume-writer`：负责把单条经历写成 X-Y-Z / STAR 爆破点，本技能在其之上做市场分化
-- `resume-optimizer`：负责 ATS 关键词匹配与格式检测，本技能生成后可用它做最终扫描
-- 串联顺序建议：证据账本 → `resume-writer` 起草 bullet → 本技能按市场分化 → `resume-optimizer` 终检
+- [resume-writer](../skills/resume-writer/SKILL.md)：负责把单条经历写成 X-Y-Z / STAR 爆破点，本技能在其之上做市场分化
+- [resume-optimizer](../skills/resume-optimizer/SKILL.md)：负责 ATS 关键词匹配与格式检测，本技能生成后可用它做最终扫描
+- 串联顺序建议：证据账本 → [resume-writer](../skills/resume-writer/SKILL.md) 起草 bullet → 本技能按市场分化 → [resume-optimizer](../skills/resume-optimizer/SKILL.md) 终检
 
 ## 八、诚信边界
 

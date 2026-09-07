@@ -59,7 +59,7 @@
 
 ## 三、被点开后：让人 30 秒读完
 
-- **经历部分**：每段 3–5 条，写法同简历（见 `resume-crafting.md` 四级阶梯），
+- **经历部分**：每段 3–5 条，写法同简历（见 [resume-crafting.md](resume-crafting.md) 四级阶梯），
   但可以多一点第一人称的语气和上下文
 - **头像**：清晰正脸、干净背景。有头像的档案被查看率显著更高
 - **背景图**：放作品、团队照或干净的纯色。空着=默认灰，浪费一块黄金位置
@@ -117,8 +117,8 @@
 
 本篇是个人品牌方法论（L2），落地优化交给细粒度子技能（L3）：
 
-- `skills/linkedin-optimizer/SKILL.md` — LinkedIn 资料即个人品牌主阵地（落地优化到 All-Star）
+- [skills/linkedin-optimizer/SKILL.md](../skills/linkedin-optimizer/SKILL.md) — LinkedIn 资料即个人品牌主阵地（落地优化到 All-Star）
 
-兄弟参考（同属 L2，按需交叉加载）：`references/job-search-strategy.md`（品牌→被动机会）、`references/resume-crafting.md`（简历与品牌一致性）。
+兄弟参考（同属 L2，按需交叉加载）：[references/job-search-strategy.md](job-search-strategy.md)（品牌→被动机会）、[references/resume-crafting.md](resume-crafting.md)（简历与品牌一致性）。
 
-层次边界：本篇讲品牌定位 / 被搜到 / 被点开的方法论；`linkedin-optimizer` 是把档案改到 All-Star 的落地工具。先读本篇定品牌策略，再调 `linkedin-optimizer` 落地。
+层次边界：本篇讲品牌定位 / 被搜到 / 被点开的方法论；[linkedin-optimizer](../skills/linkedin-optimizer/SKILL.md) 是把档案改到 All-Star 的落地工具。先读本篇定品牌策略，再调 [linkedin-optimizer](../skills/linkedin-optimizer/SKILL.md) 落地。

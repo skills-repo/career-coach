@@ -70,8 +70,8 @@ tags:
 
 本技能是 L3 细粒度落地动作（ATS 检测），配套方法论见：
 
-- `../../references/resume-crafting.md` — 简历撰写方法论（读者模型 / JD 反向工程）
-- `../../references/ats-optimization.md` — ATS 解析层 + 检索层 + 关键词策略
+- [references/resume-crafting.md](../../references/resume-crafting.md) — 简历撰写方法论（读者模型 / JD 反向工程）
+- [references/ats-optimization.md](../../references/ats-optimization.md) — ATS 解析层 + 检索层 + 关键词策略
 
 ## 限制
 

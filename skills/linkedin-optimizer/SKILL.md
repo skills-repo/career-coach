@@ -74,8 +74,8 @@ tags:
 
 本技能是 L3 细粒度落地动作（资料优化），配套方法论见：
 
-- `../../references/personal-branding.md` — 个人品牌定位、被搜到 / 被点开的方法论
-- `../../references/job-search-strategy.md` — 内推 / 网络渠道与漏斗诊断
+- [references/personal-branding.md](../../references/personal-branding.md) — 个人品牌定位、被搜到 / 被点开的方法论
+- [references/job-search-strategy.md](../../references/job-search-strategy.md) — 内推 / 网络渠道与漏斗诊断
 
 ## 限制
 

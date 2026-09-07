@@ -74,11 +74,11 @@
 
 | 卡点 | 症状 | 根因 | 对策 |
 |------|------|------|------|
-| 投递→筛选 | 投 30+ 家几乎无回音 | 岗位不匹配 / ATS 解析失败 / 简历无成果 | `ats-optimization.md` + `resume-crafting.md`；换内推渠道 |
+| 投递→筛选 | 投 30+ 家几乎无回音 | 岗位不匹配 / ATS 解析失败 / 简历无成果 | [ats-optimization.md](ats-optimization.md) + [resume-crafting.md](resume-crafting.md)；换内推渠道 |
 | 筛选→初面 | HR 电话后没下文 | 期望薪资不匹配 / 动机说不清 / 时间线有硬伤 | 准备 60 秒动机陈述；提前想好空窗期说法 |
-| 初面→复面 | 技术/业务面被挂 | 简历深度不够 / 答题无结构 | `interview-prep.md` 第四、五节 |
+| 初面→复面 | 技术/业务面被挂 | 简历深度不够 / 答题无结构 | [interview-prep.md](interview-prep.md) 第四、五节 |
 | 复面→offer | 到终面被拒 | 文化/级别不匹配 / 反问暴露没做功课 | 加强公司研究；准备反问 |
-| offer→入职 | 谈崩或反悔 | 期望没有提前对齐 | `salary-negotiation.md` |
+| offer→入职 | 谈崩或反悔 | 期望没有提前对齐 | [salary-negotiation.md](salary-negotiation.md) |
 
 **每 15 次投递复盘一次**。连续 20 次同一层卡住，说明是系统性问题，不是运气。
 
@@ -135,10 +135,10 @@
 
 本篇是求职策略 / 漏斗诊断方法论（L2），落地动作分散在细粒度子技能（L3）：
 
-- `skills/linkedin-optimizer/SKILL.md` — 内推 / 网络渠道落地（LinkedIn 优化）
-- `skills/interview-coach/SKILL.md` — 面邀转化陪练
-- `skills/resume-writer/SKILL.md` — 简历作为投递载体改写
+- [skills/linkedin-optimizer/SKILL.md](../skills/linkedin-optimizer/SKILL.md) — 内推 / 网络渠道落地（LinkedIn 优化）
+- [skills/interview-coach/SKILL.md](../skills/interview-coach/SKILL.md) — 面邀转化陪练
+- [skills/resume-writer/SKILL.md](../skills/resume-writer/SKILL.md) — 简历作为投递载体改写
 
-兄弟参考（同属 L2，按需交叉加载）：`references/interview-prep.md`（面邀后准备）、`references/career-transition.md`（转型期求职）、`references/personal-branding.md`（品牌带来被动机会）。
+兄弟参考（同属 L2，按需交叉加载）：[references/interview-prep.md](interview-prep.md)（面邀后准备）、[references/career-transition.md](career-transition.md)（转型期求职）、[references/personal-branding.md](personal-branding.md)（品牌带来被动机会）。
 
-层次边界：本篇负责渠道转化率与漏斗诊断（卡在哪一层、怎么调策略）；落地动作分散在 `linkedin-optimizer` / `interview-coach` / `resume-writer`。先读本篇定位漏斗层，再调对应 skill。
+层次边界：本篇负责渠道转化率与漏斗诊断（卡在哪一层、怎么调策略）；落地动作分散在 [linkedin-optimizer](../skills/linkedin-optimizer/SKILL.md) / [interview-coach](../skills/interview-coach/SKILL.md) / [resume-writer](../skills/resume-writer/SKILL.md)。先读本篇定位漏斗层，再调对应 skill。
