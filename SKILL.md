@@ -37,19 +37,19 @@ metadata:
 
 | 任务 | 读取 / 调用 | 关键词（grep 线索） |
 |------|------------|---------------------|
-| 简历撰写与改写方法论 | `references/resume-crafting.md` | 简历, resume, bullet, STAR 成果, 量化, 职责改成就, 一页 |
-| ATS 与关键词策略 | `references/ats-optimization.md` | ATS, 关键词, 解析, 格式, 双栏, JD 匹配, 石沉大海 |
-| 面试准备全套 | `references/interview-prep.md` | 面试, interview, STAR, CARL, 系统设计, 行为面, 反问, 故事库 |
-| 个人品牌与职业档案 | `references/personal-branding.md` | LinkedIn, 档案, headline, 个人品牌, 被搜到, 推荐语 |
-| 求职策略与漏斗诊断 | `references/job-search-strategy.md` | 求职, 内推, 渠道, 投递, 漏斗, 空窗期, 拒信, 在职求职 |
-| 薪酬谈判与 offer 决策 | `references/salary-negotiation.md` | 谈薪, 期望薪资, offer, BATNA, 签字费, 股权, 涨薪, 职级 |
-| 职业转型与晋升 | `references/career-transition.md` | 转行, 转岗, 可迁移能力, 晋升, 升职, 跳槽, 职业规划 |
-| 面试教练（交互式一次一问） | `skills/interview-coach/SKILL.md` | 模拟面试, 面试练习, 逐题, 追问 |
-| LinkedIn 资料优化（细粒度） | `skills/linkedin-optimizer/SKILL.md` | LinkedIn, 领英, 资料优化, 招聘者触达 |
-| 简历 ATS 检测（细粒度） | `skills/resume-optimizer/SKILL.md` | ATS 检测, 匹配度, 兼容性, 关键词扫描 |
-| 简历爆破点撰写（细粒度） | `skills/resume-writer/SKILL.md` | bullet, 爆破点, 成就描述, 弱描述改写 |
-| 中国/国际双轨简历（方法论） | `references/resume-market-adapter.md` | 双轨, 市场适配, 中英文简历, 隐私, 证据账本, 脱敏, 地区化 |
-| 双轨简历适配器（细粒度） | `skills/resume-market-adapter/SKILL.md` | 双版本, 中美简历, 地区化, 差异对照, market adapter |
+| 简历撰写与改写方法论 | [references/resume-crafting.md](references/resume-crafting.md) | 简历, resume, bullet, STAR 成果, 量化, 职责改成就, 一页 |
+| ATS 与关键词策略 | [references/ats-optimization.md](references/ats-optimization.md) | ATS, 关键词, 解析, 格式, 双栏, JD 匹配, 石沉大海 |
+| 面试准备全套 | [references/interview-prep.md](references/interview-prep.md) | 面试, interview, STAR, CARL, 系统设计, 行为面, 反问, 故事库 |
+| 个人品牌与职业档案 | [references/personal-branding.md](references/personal-branding.md) | LinkedIn, 档案, headline, 个人品牌, 被搜到, 推荐语 |
+| 求职策略与漏斗诊断 | [references/job-search-strategy.md](references/job-search-strategy.md) | 求职, 内推, 渠道, 投递, 漏斗, 空窗期, 拒信, 在职求职 |
+| 薪酬谈判与 offer 决策 | [references/salary-negotiation.md](references/salary-negotiation.md) | 谈薪, 期望薪资, offer, BATNA, 签字费, 股权, 涨薪, 职级 |
+| 职业转型与晋升 | [references/career-transition.md](references/career-transition.md) | 转行, 转岗, 可迁移能力, 晋升, 升职, 跳槽, 职业规划 |
+| 面试教练（交互式一次一问） | [skills/interview-coach/SKILL.md](skills/interview-coach/SKILL.md) | 模拟面试, 面试练习, 逐题, 追问 |
+| LinkedIn 资料优化（细粒度） | [skills/linkedin-optimizer/SKILL.md](skills/linkedin-optimizer/SKILL.md) | LinkedIn, 领英, 资料优化, 招聘者触达 |
+| 简历 ATS 检测（细粒度） | [skills/resume-optimizer/SKILL.md](skills/resume-optimizer/SKILL.md) | ATS 检测, 匹配度, 兼容性, 关键词扫描 |
+| 简历爆破点撰写（细粒度） | [skills/resume-writer/SKILL.md](skills/resume-writer/SKILL.md) | bullet, 爆破点, 成就描述, 弱描述改写 |
+| 中国/国际双轨简历（方法论） | [references/resume-market-adapter.md](references/resume-market-adapter.md) | 双轨, 市场适配, 中英文简历, 隐私, 证据账本, 脱敏, 地区化 |
+| 双轨简历适配器（细粒度） | [skills/resume-market-adapter/SKILL.md](skills/resume-market-adapter/SKILL.md) | 双版本, 中美简历, 地区化, 差异对照, market adapter |
 
 > **路由规则**：
 > 用户要**方法论、诊断、策略判断** → 读 `references/`；

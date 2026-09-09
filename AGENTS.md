@@ -42,11 +42,11 @@
 
 | 技能 | 文件 | 用途 |
 |------|------|------|
-| interview-coach | `skills/interview-coach/SKILL.md` | 面试教练：一次一问，交互式模拟 |
-| resume-optimizer | `skills/resume-optimizer/SKILL.md` | 简历 ATS 检测：关键词匹配、格式检查 |
-| linkedin-optimizer | `skills/linkedin-optimizer/SKILL.md` | LinkedIn 资料优化 |
-| resume-writer | `skills/resume-writer/SKILL.md` | 爆破点撰写：X-Y-Z + STAR |
-| resume-market-adapter | `skills/resume-market-adapter/SKILL.md` | 双轨简历：中/国际适配、隐私风险、差异对照 |
+| interview-coach | [skills/interview-coach/SKILL.md](skills/interview-coach/SKILL.md) | 面试教练：一次一问，交互式模拟 |
+| resume-optimizer | [skills/resume-optimizer/SKILL.md](skills/resume-optimizer/SKILL.md) | 简历 ATS 检测：关键词匹配、格式检查 |
+| linkedin-optimizer | [skills/linkedin-optimizer/SKILL.md](skills/linkedin-optimizer/SKILL.md) | LinkedIn 资料优化 |
+| resume-writer | [skills/resume-writer/SKILL.md](skills/resume-writer/SKILL.md) | 爆破点撰写：X-Y-Z + STAR |
+| resume-market-adapter | [skills/resume-market-adapter/SKILL.md](skills/resume-market-adapter/SKILL.md) | 双轨简历：中/国际适配、隐私风险、差异对照 |
 
 ## 行为准则
 
