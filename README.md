@@ -62,12 +62,16 @@ npx skills add skills-repo/career-coach -g -y
 
 **只装单个子技能**（轻量，仅该能力）：
 
+> ⚠️ **D115**：superpower 仓库根 `SKILL.md` 会遮蔽子技能，`skills-repo/career-coach@<skill>` 语法
+> 的 `@` 被 skills CLI 当作 git ref，单技能安装会失效。请改用下面的**子路径 URL** 语法
+> （整库安装不受影响）。
+
 ```bash
-npx skills add skills-repo/career-coach@interview-coach -g -y
-npx skills add skills-repo/career-coach@resume-optimizer -g -y
-npx skills add skills-repo/career-coach@linkedin-optimizer -g -y
-npx skills add skills-repo/career-coach@resume-writer -g -y
-npx skills add skills-repo/career-coach@resume-market-adapter -g -y
+npx skills add https://github.com/skills-repo/career-coach/tree/main/skills/interview-coach -g -y
+npx skills add https://github.com/skills-repo/career-coach/tree/main/skills/resume-optimizer -g -y
+npx skills add https://github.com/skills-repo/career-coach/tree/main/skills/linkedin-optimizer -g -y
+npx skills add https://github.com/skills-repo/career-coach/tree/main/skills/resume-writer -g -y
+npx skills add https://github.com/skills-repo/career-coach/tree/main/skills/resume-market-adapter -g -y
 ```
 
 ## 推荐工作流
